@@ -26,11 +26,15 @@ nav {
 section {
     border: 2px solid #999;
     margin-bottom: 10px;
+    width: 400px;
+    float: left;
 }
 
 aside {
-     border: 2px solid #999;
+    border: 2px solid #999;
     margin-bottom: 10px;
+    width: 200px;
+    float: right;
 }
 
 footer {
@@ -38,5 +42,5 @@ footer {
 }
 
 img {
-    width: 90%;
+    width: 69%;
 }
